@@ -1,0 +1,20 @@
+<package>
+  <description brief="line_filter">
+
+    line_filter 
+
+    takes an image and extracts the white pixels and does inv threshold
+
+  </description>
+  <author>Jeff Rousseau</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/line_filter</url>
+
+  <depend package="rospy"/>
+  <depend package="opencv2"/>
+  <depend package="cv_bridge"/>
+
+</package>
+
+

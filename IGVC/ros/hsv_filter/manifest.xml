@@ -1,0 +1,18 @@
+<package>
+  <description brief="hsv_filter">
+
+Filters the H channel of an HSV image.
+
+  </description>
+  <author>Mike Therrien</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/hsv_filter</url>
+
+  <depend package="rospy"/>
+  <depend package="opencv2"/>
+  <depend package="cv_bridge"/>
+
+</package>
+
+

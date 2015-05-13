@@ -1,0 +1,6 @@
+roscd hsv_filter
+cd nodes
+roscore &
+rosrun image_view image_view image:=/static_image &
+rosrun image_view image_view image:=/output_image &
+rosrun hsv_filter grass_pub.py &

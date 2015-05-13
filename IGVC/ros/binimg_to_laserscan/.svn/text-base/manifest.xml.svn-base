@@ -1,0 +1,16 @@
+<package>
+  <description brief="binimg_to_laserscan">
+
+     binimg_to_laserscan
+
+    given a binary image topic and a point of origin (from param), this node will construct a laserscan
+
+  </description>
+  <author>Jeff Rousseau</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/binimg_to_laserscan</url>
+
+</package>
+
+
